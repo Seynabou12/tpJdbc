@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b677a6fd-e635-4d38-804d-04d0bcfb8be6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/présentation/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/présentation/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="b677a6fd-e635-4d38-804d-04d0bcfb8be6" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,8 +38,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/présentation/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="478">
-              <caret line="50" selection-start-line="50" selection-end-line="50" />
+            <state relative-caret-position="-54">
+              <caret line="32" column="61" selection-start-line="32" selection-start-column="61" selection-end-line="32" selection-end-column="61" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -213,7 +211,7 @@
       <updated>1650530566525</updated>
       <workItem from="1650530572893" duration="28163000" />
       <workItem from="1650560466961" duration="970000" />
-      <workItem from="1650561511042" duration="6385000" />
+      <workItem from="1650561511042" duration="10013000" />
     </task>
     <task id="LOCAL-00001" summary="Création des packgaes&#10;Connexion à la base de donnée&#10;Ajout de Client au niveau de la base de donnée&#10;Liste les client qui sont dans la base de donnée">
       <created>1650562587183</created>
@@ -226,12 +224,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35518000" />
+    <option name="totallyTimeSpent" value="39146000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="50" y="27" width="1870" height="1053" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49945593" visible="true" weight="0.25164473" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49945593" visible="true" weight="0.19298245" />
       <window_info id="Structure" order="1" sideWeight="0.5005441" side_tool="true" weight="0.24890351" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -243,7 +242,7 @@
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49945176" weight="0.30643404" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934713" />
       <window_info anchor="bottom" id="Database Changes" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.50054824" side_tool="true" weight="0.4972737" />
+      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.50054824" side_tool="true" weight="0.33151582" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="8" />
@@ -387,8 +386,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/présentation/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="478">
-          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        <state relative-caret-position="-54">
+          <caret line="32" column="61" selection-start-line="32" selection-start-column="61" selection-end-line="32" selection-end-column="61" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
