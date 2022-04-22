@@ -42,14 +42,16 @@ public class Main
         client.setCivivlites(civilites);
 
         int ok = iclient.create(client);
-        System.out.println(ok + " " + "Client ajouter avec succés");
 
         sc.nextLine();
+
+        System.out.println( ok + " Client ajouter avec succés");
+
+       sc.nextLine();
 
         System.out.println("-----------------------------------------------------------------------------------------------------");
 
         sc.nextLine();
-
 
         File clients = new File("clients.csv");
 
